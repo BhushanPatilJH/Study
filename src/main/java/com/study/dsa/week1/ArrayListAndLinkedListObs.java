@@ -1,4 +1,4 @@
-package week1.arrays;
+package com.study.dsa.week1;
 
 import java.util.ArrayList;
 import java.util.LinkedList;
