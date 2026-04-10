@@ -1,4 +1,4 @@
-package week1.arrays;
+package com.study.dsa.week1;
 
 /**
  * Open/Closed Principle: A class should be OPEN for extension but CLOSED for modification.
